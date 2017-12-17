@@ -1,0 +1,29 @@
+{
+  "name": "lipcore-message",
+  "main": "./lipcore-message.min.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/lipcoin/lipcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Lipcoin Message Verification and Signing for Lipcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "lipcoin",
+    "lipcore",
+    "lipc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
